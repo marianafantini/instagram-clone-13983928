@@ -10,15 +10,23 @@ package com.parse.starter;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.parse.Parse;
+import com.parse.ParseACL;
 import com.parse.ParseAnalytics;
+import com.parse.ParseException;
+import com.parse.ParseUser;
+import com.parse.SignUpCallback;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -101,9 +109,48 @@ public class MainActivity extends AppCompatActivity {
 
     public void logIn(String username, String password) {
 
+
     }
 
     public void signUp(String username, String password) {
+
+        Parse.enableLocalDatastore(this);
+
+        // Add your initialization code here
+        Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
+                .applicationId("instagram63537UJDFHEYhdfkefhe")
+                //.clientKey("uefjfhy7%$RHJHu7163jie")
+                .server("https://instagram1223.herokuapp.com/parse/")
+                .build()
+        );
+
+        ParseUser user = new ParseUser();
+
+        user.setUsername(username);
+        user.setPassword(password);
+
+        Log.i("signUp", "Username: " + username + " - Password: " + password);
+
+        user.signUpInBackground(new SignUpCallback() {
+            @Override
+            public void done(ParseException e) {
+
+                Log.i("signUp", "Exception: " + e.toString() + " - " + e.fillInStackTrace());
+
+                if (e == null) {
+                    Toast toast = Toast.makeText(MainActivity.this, "Error on log in! " + e.getMessage(), Toast.LENGTH_SHORT);
+                    toast.show();
+                } else {
+                    Toast toast = Toast.makeText(MainActivity.this, "Log in successful!", Toast.LENGTH_SHORT);
+                    toast.show();
+                }
+            }
+        });
+
+        ParseACL defaultACL = new ParseACL();
+        // Optionally enable public read access.
+        // defaultACL.setPublicReadAccess(true);
+        ParseACL.setDefaultACL(defaultACL, true);
 
     }
 

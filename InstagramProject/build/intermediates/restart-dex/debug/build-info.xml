@@ -6,26 +6,26 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1512266193778"
+    timestamp="1512268111205"
     token="5887819955982964951"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="381" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="30" />
     <task
         name="verifier"
-        duration="0" />
+        duration="14" />
 
     <artifact
-        location="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\outputs\apk\InstagramProject-debug.apk"
-        type="SPLIT_MAIN" />
+        location="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -70,11 +70,19 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1512266193778"
+        timestamp="1512267523428"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\outputs\apk\InstagramProject-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1512268111205"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

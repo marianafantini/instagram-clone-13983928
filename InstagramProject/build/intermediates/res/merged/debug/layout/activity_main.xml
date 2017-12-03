@@ -45,7 +45,8 @@
         android:layout_below="@+id/edtPassword"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="19dp"
-        android:text="Log in" />
+        android:text="Log in"
+        android:onClick="signUpLogInHandler" />
 
     <TextView
         android:id="@+id/txtViewSwitch"

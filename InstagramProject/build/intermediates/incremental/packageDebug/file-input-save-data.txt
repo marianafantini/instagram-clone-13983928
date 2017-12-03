@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 02 23:56:35 BRST 2017
+#Sun Dec 03 00:18:50 BRST 2017
 122.file=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_activity_chooser_view.xml
 60.set=ANDROID_RESOURCE
 129.file=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\support_simple_spinner_dropdown_item.xml

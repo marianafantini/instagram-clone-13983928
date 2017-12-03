@@ -122,7 +122,7 @@ public class StarterApplication extends Application {
 */
 
 
-
+/*
         ParseUser user = new ParseUser();
 
         user.setUsername("mfantini");
@@ -139,7 +139,7 @@ public class StarterApplication extends Application {
             }
         });
 
-
+*/
         ParseACL defaultACL = new ParseACL();
         // Optionally enable public read access.
         // defaultACL.setPublicReadAccess(true);
