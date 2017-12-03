@@ -1,4 +1,4 @@
-#Sun Dec 03 00:18:49 BRST 2017
+#Sun Dec 03 17:38:30 BRST 2017
 base.0=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a63da891b8c9d2b2cb3e2f5bef716ee62e9112e9
 renamed.1=classes.dex
 renamed.0=classes2.dex

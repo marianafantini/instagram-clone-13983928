@@ -9,6 +9,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/lib/com.parse.starter"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/bright_foreground_disabled_material_dark"
@@ -19,7 +20,7 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewLogo"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -32,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/btnOk"
         android:layout_alignStart="@+id/btnOk"
-        android:layout_below="@+id/imageView"
+        android:layout_below="@+id/imageViewLogo"
         android:layout_marginTop="28dp"
         android:ems="10"
         android:hint="username"
@@ -45,8 +46,8 @@
         android:layout_below="@+id/edtPassword"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="19dp"
-        android:text="Log in"
-        android:onClick="signUpLogInHandler" />
+        android:onClick="signUpLogInHandler"
+        android:text="@string/sign_up" />
 
     <TextView
         android:id="@+id/txtViewSwitch"
@@ -56,7 +57,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="14dp"
         android:onClick="switchButtons"
-        android:text="Sign up" />
+        android:text="@string/log_in" />
 
     <TextView
         android:id="@+id/textView2"

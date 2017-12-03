@@ -2585,14 +2585,7 @@
                     "endOffset": 36106
                 },
                 "from": {
-                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 493,
-                        "endColumn": 46,
-                        "endOffset": 535
-                    }
+                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -2600,8 +2593,27 @@
                     "startLine": 289,
                     "startColumn": 4,
                     "startOffset": 36111,
+                    "endColumn": 77,
+                    "endOffset": 36184
+                },
+                "from": {
+                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 77,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 36189,
                     "endColumn": 52,
-                    "endOffset": 36159
+                    "endOffset": 36237
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml"
@@ -2609,30 +2621,11 @@
             },
             {
                 "to": {
-                    "startLine": 290,
-                    "startColumn": 4,
-                    "startOffset": 36164,
-                    "endColumn": 41,
-                    "endOffset": 36201
-                },
-                "from": {
-                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 647,
-                        "endColumn": 41,
-                        "endOffset": 684
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 36206,
-                    "endColumn": 60,
-                    "endOffset": 36262
+                    "startOffset": 36242,
+                    "endColumn": 41,
+                    "endOffset": 36279
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml"
@@ -2642,9 +2635,9 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 36267,
+                    "startOffset": 36284,
                     "endColumn": 60,
-                    "endOffset": 36323
+                    "endOffset": 36340
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml"
@@ -2654,39 +2647,32 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 36328,
-                    "endColumn": 43,
-                    "endOffset": 36367
+                    "startOffset": 36345,
+                    "endColumn": 60,
+                    "endOffset": 36401
                 },
                 "from": {
-                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 689,
-                        "endColumn": 43,
-                        "endOffset": 728
-                    }
+                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 36372,
-                    "endColumn": 70,
-                    "endOffset": 36438
+                    "startOffset": 36406,
+                    "endColumn": 43,
+                    "endOffset": 36445
                 },
                 "from": {
-                    "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
+                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 36443,
-                    "endColumn": 77,
+                    "startOffset": 36450,
+                    "endColumn": 70,
                     "endOffset": 36516
                 },
                 "from": {
@@ -2698,8 +2684,8 @@
                     "startLine": 296,
                     "startColumn": 4,
                     "startOffset": 36521,
-                    "endColumn": 89,
-                    "endOffset": 36606
+                    "endColumn": 77,
+                    "endOffset": 36594
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2709,9 +2695,9 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 36611,
-                    "endColumn": 87,
-                    "endOffset": 36694
+                    "startOffset": 36599,
+                    "endColumn": 89,
+                    "endOffset": 36684
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2721,9 +2707,9 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 36699,
-                    "endColumn": 95,
-                    "endOffset": 36790
+                    "startOffset": 36689,
+                    "endColumn": 87,
+                    "endOffset": 36772
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2733,23 +2719,9 @@
                 "to": {
                     "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 36795,
-                    "endLine": 301,
-                    "endColumn": 12,
-                    "endOffset": 36885
-                },
-                "from": {
-                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 302,
-                    "startColumn": 4,
-                    "startOffset": 36890,
-                    "endLine": 308,
-                    "endColumn": 12,
-                    "endOffset": 37386
+                    "startOffset": 36777,
+                    "endColumn": 95,
+                    "endOffset": 36868
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2757,11 +2729,25 @@
             },
             {
                 "to": {
-                    "startLine": 309,
+                    "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 37391,
-                    "endColumn": 88,
-                    "endOffset": 37475
+                    "startOffset": 36873,
+                    "endLine": 302,
+                    "endColumn": 12,
+                    "endOffset": 36963
+                },
+                "from": {
+                    "file": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 36968,
+                    "endLine": 309,
+                    "endColumn": 12,
+                    "endOffset": 37464
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2771,10 +2757,9 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 37480,
-                    "endLine": 313,
-                    "endColumn": 12,
-                    "endOffset": 37722
+                    "startOffset": 37469,
+                    "endColumn": 88,
+                    "endOffset": 37553
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2782,12 +2767,12 @@
             },
             {
                 "to": {
-                    "startLine": 314,
+                    "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 37727,
-                    "endLine": 317,
+                    "startOffset": 37558,
+                    "endLine": 314,
                     "endColumn": 12,
-                    "endOffset": 38003
+                    "endOffset": 37800
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2795,12 +2780,12 @@
             },
             {
                 "to": {
-                    "startLine": 318,
+                    "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 38008,
-                    "endLine": 322,
+                    "startOffset": 37805,
+                    "endLine": 318,
                     "endColumn": 12,
-                    "endOffset": 38288
+                    "endOffset": 38081
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2808,12 +2793,12 @@
             },
             {
                 "to": {
-                    "startLine": 323,
+                    "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 38293,
-                    "endLine": 328,
+                    "startOffset": 38086,
+                    "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 38681
+                    "endOffset": 38366
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2821,12 +2806,12 @@
             },
             {
                 "to": {
-                    "startLine": 329,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 38686,
-                    "endLine": 335,
+                    "startOffset": 38371,
+                    "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 39158
+                    "endOffset": 38759
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2834,12 +2819,12 @@
             },
             {
                 "to": {
-                    "startLine": 336,
+                    "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 39163,
-                    "endLine": 339,
+                    "startOffset": 38764,
+                    "endLine": 336,
                     "endColumn": 12,
-                    "endOffset": 39380
+                    "endOffset": 39236
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2847,12 +2832,12 @@
             },
             {
                 "to": {
-                    "startLine": 340,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 39385,
-                    "endLine": 343,
+                    "startOffset": 39241,
+                    "endLine": 340,
                     "endColumn": 12,
-                    "endOffset": 39602
+                    "endOffset": 39458
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2860,12 +2845,12 @@
             },
             {
                 "to": {
-                    "startLine": 344,
+                    "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 39607,
-                    "endLine": 348,
+                    "startOffset": 39463,
+                    "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 39870
+                    "endOffset": 39680
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2873,12 +2858,12 @@
             },
             {
                 "to": {
-                    "startLine": 349,
+                    "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 39875,
-                    "endLine": 352,
+                    "startOffset": 39685,
+                    "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 40097
+                    "endOffset": 39948
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2886,12 +2871,12 @@
             },
             {
                 "to": {
-                    "startLine": 353,
+                    "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 40102,
-                    "endLine": 356,
+                    "startOffset": 39953,
+                    "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 40327
+                    "endOffset": 40175
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2899,12 +2884,12 @@
             },
             {
                 "to": {
-                    "startLine": 357,
+                    "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 40332,
-                    "endLine": 360,
+                    "startOffset": 40180,
+                    "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 40557
+                    "endOffset": 40405
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2912,12 +2897,12 @@
             },
             {
                 "to": {
-                    "startLine": 361,
+                    "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 40562,
-                    "endLine": 364,
+                    "startOffset": 40410,
+                    "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 40787
+                    "endOffset": 40635
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2925,12 +2910,12 @@
             },
             {
                 "to": {
-                    "startLine": 365,
+                    "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 40792,
-                    "endLine": 368,
+                    "startOffset": 40640,
+                    "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 41017
+                    "endOffset": 40865
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2938,12 +2923,12 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 41022,
-                    "endLine": 372,
+                    "startOffset": 40870,
+                    "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 41244
+                    "endOffset": 41095
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2951,12 +2936,12 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 41249,
-                    "endLine": 376,
+                    "startOffset": 41100,
+                    "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 41483
+                    "endOffset": 41322
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2964,12 +2949,12 @@
             },
             {
                 "to": {
-                    "startLine": 377,
+                    "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 41488,
-                    "endLine": 380,
+                    "startOffset": 41327,
+                    "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 41709
+                    "endOffset": 41561
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2977,12 +2962,12 @@
             },
             {
                 "to": {
-                    "startLine": 381,
+                    "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 41714,
-                    "endLine": 384,
+                    "startOffset": 41566,
+                    "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 41954
+                    "endOffset": 41787
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -2990,12 +2975,12 @@
             },
             {
                 "to": {
-                    "startLine": 385,
+                    "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 41959,
-                    "endLine": 386,
+                    "startOffset": 41792,
+                    "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 42084
+                    "endOffset": 42032
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3003,12 +2988,12 @@
             },
             {
                 "to": {
-                    "startLine": 387,
+                    "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 42089,
-                    "endLine": 388,
+                    "startOffset": 42037,
+                    "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 42214
+                    "endOffset": 42162
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3016,12 +3001,12 @@
             },
             {
                 "to": {
-                    "startLine": 389,
+                    "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 42219,
-                    "endLine": 392,
+                    "startOffset": 42167,
+                    "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 42444
+                    "endOffset": 42292
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3029,12 +3014,12 @@
             },
             {
                 "to": {
-                    "startLine": 393,
+                    "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 42449,
-                    "endLine": 396,
+                    "startOffset": 42297,
+                    "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 42692
+                    "endOffset": 42522
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3042,12 +3027,12 @@
             },
             {
                 "to": {
-                    "startLine": 397,
+                    "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 42697,
-                    "endLine": 400,
+                    "startOffset": 42527,
+                    "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 42911
+                    "endOffset": 42770
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3055,12 +3040,12 @@
             },
             {
                 "to": {
-                    "startLine": 401,
+                    "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 42916,
-                    "endLine": 405,
+                    "startOffset": 42775,
+                    "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 43194
+                    "endOffset": 42989
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3068,12 +3053,12 @@
             },
             {
                 "to": {
-                    "startLine": 406,
+                    "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 43199,
-                    "endLine": 409,
+                    "startOffset": 42994,
+                    "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 43402
+                    "endOffset": 43272
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3081,12 +3066,12 @@
             },
             {
                 "to": {
-                    "startLine": 410,
+                    "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 43407,
-                    "endLine": 412,
+                    "startOffset": 43277,
+                    "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 43533
+                    "endOffset": 43480
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3094,12 +3079,12 @@
             },
             {
                 "to": {
-                    "startLine": 413,
+                    "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 43538,
-                    "endLine": 416,
+                    "startOffset": 43485,
+                    "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 43760
+                    "endOffset": 43611
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3107,12 +3092,12 @@
             },
             {
                 "to": {
-                    "startLine": 417,
+                    "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 43765,
-                    "endLine": 420,
+                    "startOffset": 43616,
+                    "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 44006
+                    "endOffset": 43838
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3120,12 +3105,12 @@
             },
             {
                 "to": {
-                    "startLine": 421,
+                    "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 44011,
-                    "endLine": 424,
+                    "startOffset": 43843,
+                    "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 44231
+                    "endOffset": 44084
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3133,12 +3118,12 @@
             },
             {
                 "to": {
-                    "startLine": 425,
+                    "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 44236,
-                    "endLine": 428,
+                    "startOffset": 44089,
+                    "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 44480
+                    "endOffset": 44309
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3146,12 +3131,12 @@
             },
             {
                 "to": {
-                    "startLine": 429,
+                    "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 44485,
-                    "endLine": 432,
+                    "startOffset": 44314,
+                    "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 44701
+                    "endOffset": 44558
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3159,12 +3144,12 @@
             },
             {
                 "to": {
-                    "startLine": 433,
+                    "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 44706,
-                    "endLine": 436,
+                    "startOffset": 44563,
+                    "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 44946
+                    "endOffset": 44779
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3172,12 +3157,12 @@
             },
             {
                 "to": {
-                    "startLine": 437,
+                    "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 44951,
-                    "endLine": 441,
+                    "startOffset": 44784,
+                    "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 45241
+                    "endOffset": 45024
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3185,12 +3170,12 @@
             },
             {
                 "to": {
-                    "startLine": 442,
+                    "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 45246,
-                    "endLine": 444,
+                    "startOffset": 45029,
+                    "endLine": 442,
                     "endColumn": 12,
-                    "endOffset": 45463
+                    "endOffset": 45319
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3198,12 +3183,12 @@
             },
             {
                 "to": {
-                    "startLine": 445,
+                    "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 45468,
-                    "endLine": 447,
+                    "startOffset": 45324,
+                    "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 45701
+                    "endOffset": 45541
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3211,12 +3196,12 @@
             },
             {
                 "to": {
-                    "startLine": 448,
+                    "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 45706,
-                    "endLine": 450,
+                    "startOffset": 45546,
+                    "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 45915
+                    "endOffset": 45779
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3224,12 +3209,12 @@
             },
             {
                 "to": {
-                    "startLine": 451,
+                    "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 45920,
-                    "endLine": 453,
+                    "startOffset": 45784,
+                    "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 46145
+                    "endOffset": 45993
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3237,12 +3222,12 @@
             },
             {
                 "to": {
-                    "startLine": 454,
+                    "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 46150,
-                    "endLine": 456,
+                    "startOffset": 45998,
+                    "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 46368
+                    "endOffset": 46223
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3250,12 +3235,12 @@
             },
             {
                 "to": {
-                    "startLine": 457,
+                    "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 46373,
-                    "endLine": 459,
+                    "startOffset": 46228,
+                    "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 46583
+                    "endOffset": 46446
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3263,12 +3248,12 @@
             },
             {
                 "to": {
-                    "startLine": 460,
+                    "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 46588,
-                    "endLine": 462,
+                    "startOffset": 46451,
+                    "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 46791
+                    "endOffset": 46661
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3276,12 +3261,12 @@
             },
             {
                 "to": {
-                    "startLine": 463,
+                    "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 46796,
-                    "endLine": 464,
+                    "startOffset": 46666,
+                    "endLine": 463,
                     "endColumn": 12,
-                    "endOffset": 46915
+                    "endOffset": 46869
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3289,12 +3274,12 @@
             },
             {
                 "to": {
-                    "startLine": 465,
+                    "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 46920,
-                    "endLine": 466,
+                    "startOffset": 46874,
+                    "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 47039
+                    "endOffset": 46993
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3302,11 +3287,12 @@
             },
             {
                 "to": {
-                    "startLine": 467,
+                    "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 47044,
-                    "endColumn": 104,
-                    "endOffset": 47144
+                    "startOffset": 46998,
+                    "endLine": 467,
+                    "endColumn": 12,
+                    "endOffset": 47117
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3316,9 +3302,9 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 47149,
-                    "endColumn": 116,
-                    "endOffset": 47261
+                    "startOffset": 47122,
+                    "endColumn": 104,
+                    "endOffset": 47222
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3328,10 +3314,9 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 47266,
-                    "endLine": 471,
-                    "endColumn": 12,
-                    "endOffset": 47475
+                    "startOffset": 47227,
+                    "endColumn": 116,
+                    "endOffset": 47339
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3339,12 +3324,12 @@
             },
             {
                 "to": {
-                    "startLine": 472,
+                    "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 47480,
-                    "endLine": 473,
+                    "startOffset": 47344,
+                    "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 47621
+                    "endOffset": 47553
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3352,12 +3337,12 @@
             },
             {
                 "to": {
-                    "startLine": 474,
+                    "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 47626,
-                    "endLine": 475,
+                    "startOffset": 47558,
+                    "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 47761
+                    "endOffset": 47699
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3365,12 +3350,12 @@
             },
             {
                 "to": {
-                    "startLine": 476,
+                    "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 47766,
-                    "endLine": 477,
+                    "startOffset": 47704,
+                    "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 47847
+                    "endOffset": 47839
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3378,12 +3363,12 @@
             },
             {
                 "to": {
-                    "startLine": 478,
+                    "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 47852,
-                    "endLine": 482,
+                    "startOffset": 47844,
+                    "endLine": 478,
                     "endColumn": 12,
-                    "endOffset": 48195
+                    "endOffset": 47925
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3391,11 +3376,12 @@
             },
             {
                 "to": {
-                    "startLine": 483,
+                    "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 48200,
-                    "endColumn": 87,
-                    "endOffset": 48283
+                    "startOffset": 47930,
+                    "endLine": 483,
+                    "endColumn": 12,
+                    "endOffset": 48273
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3405,10 +3391,9 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 48288,
-                    "endLine": 487,
-                    "endColumn": 12,
-                    "endOffset": 48513
+                    "startOffset": 48278,
+                    "endColumn": 87,
+                    "endOffset": 48361
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3416,12 +3401,12 @@
             },
             {
                 "to": {
-                    "startLine": 488,
+                    "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 48518,
-                    "endLine": 493,
+                    "startOffset": 48366,
+                    "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 48915
+                    "endOffset": 48591
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3429,12 +3414,12 @@
             },
             {
                 "to": {
-                    "startLine": 494,
+                    "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 48920,
-                    "endLine": 497,
+                    "startOffset": 48596,
+                    "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 49148
+                    "endOffset": 48993
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3442,11 +3427,12 @@
             },
             {
                 "to": {
-                    "startLine": 498,
+                    "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 49153,
-                    "endColumn": 81,
-                    "endOffset": 49230
+                    "startOffset": 48998,
+                    "endLine": 498,
+                    "endColumn": 12,
+                    "endOffset": 49226
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3456,10 +3442,9 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 49235,
-                    "endLine": 500,
-                    "endColumn": 12,
-                    "endOffset": 49328
+                    "startOffset": 49231,
+                    "endColumn": 81,
+                    "endOffset": 49308
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3467,12 +3452,12 @@
             },
             {
                 "to": {
-                    "startLine": 501,
+                    "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 49333,
-                    "endLine": 511,
+                    "startOffset": 49313,
+                    "endLine": 501,
                     "endColumn": 12,
-                    "endOffset": 49920
+                    "endOffset": 49406
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3480,11 +3465,12 @@
             },
             {
                 "to": {
-                    "startLine": 512,
+                    "startLine": 502,
                     "startColumn": 4,
-                    "startOffset": 49925,
-                    "endColumn": 99,
-                    "endOffset": 50020
+                    "startOffset": 49411,
+                    "endLine": 512,
+                    "endColumn": 12,
+                    "endOffset": 49998
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3494,10 +3480,9 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 50025,
-                    "endLine": 516,
-                    "endColumn": 12,
-                    "endOffset": 50256
+                    "startOffset": 50003,
+                    "endColumn": 99,
+                    "endOffset": 50098
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3505,12 +3490,12 @@
             },
             {
                 "to": {
-                    "startLine": 517,
+                    "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 50261,
-                    "endLine": 522,
+                    "startOffset": 50103,
+                    "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 50664
+                    "endOffset": 50334
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3518,12 +3503,12 @@
             },
             {
                 "to": {
-                    "startLine": 523,
+                    "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 50669,
-                    "endLine": 526,
+                    "startOffset": 50339,
+                    "endLine": 523,
                     "endColumn": 12,
-                    "endOffset": 50903
+                    "endOffset": 50742
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3531,11 +3516,12 @@
             },
             {
                 "to": {
-                    "startLine": 527,
+                    "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 50908,
-                    "endColumn": 93,
-                    "endOffset": 50997
+                    "startOffset": 50747,
+                    "endLine": 527,
+                    "endColumn": 12,
+                    "endOffset": 50981
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3545,9 +3531,9 @@
                 "to": {
                     "startLine": 528,
                     "startColumn": 4,
-                    "startOffset": 51002,
-                    "endColumn": 57,
-                    "endOffset": 51055
+                    "startOffset": 50986,
+                    "endColumn": 93,
+                    "endOffset": 51075
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3557,10 +3543,9 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 51060,
-                    "endLine": 532,
-                    "endColumn": 12,
-                    "endOffset": 51292
+                    "startOffset": 51080,
+                    "endColumn": 57,
+                    "endOffset": 51133
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3568,12 +3553,12 @@
             },
             {
                 "to": {
-                    "startLine": 533,
+                    "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 51297,
-                    "endLine": 559,
+                    "startOffset": 51138,
+                    "endLine": 533,
                     "endColumn": 12,
-                    "endOffset": 53264
+                    "endOffset": 51370
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3581,12 +3566,12 @@
             },
             {
                 "to": {
-                    "startLine": 560,
+                    "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 53269,
-                    "endLine": 563,
+                    "startOffset": 51375,
+                    "endLine": 560,
                     "endColumn": 12,
-                    "endOffset": 53506
+                    "endOffset": 53342
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3594,12 +3579,12 @@
             },
             {
                 "to": {
-                    "startLine": 564,
+                    "startLine": 561,
                     "startColumn": 4,
-                    "startOffset": 53511,
-                    "endLine": 591,
+                    "startOffset": 53347,
+                    "endLine": 564,
                     "endColumn": 12,
-                    "endOffset": 55656
+                    "endOffset": 53584
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3607,12 +3592,12 @@
             },
             {
                 "to": {
-                    "startLine": 592,
+                    "startLine": 565,
                     "startColumn": 4,
-                    "startOffset": 55661,
-                    "endLine": 736,
+                    "startOffset": 53589,
+                    "endLine": 592,
                     "endColumn": 12,
-                    "endOffset": 64370
+                    "endOffset": 55734
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3620,12 +3605,12 @@
             },
             {
                 "to": {
-                    "startLine": 737,
+                    "startLine": 593,
                     "startColumn": 4,
-                    "startOffset": 64375,
-                    "endLine": 758,
+                    "startOffset": 55739,
+                    "endLine": 737,
                     "endColumn": 12,
-                    "endOffset": 65637
+                    "endOffset": 64448
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3633,12 +3618,12 @@
             },
             {
                 "to": {
-                    "startLine": 759,
+                    "startLine": 738,
                     "startColumn": 4,
-                    "startOffset": 65642,
-                    "endLine": 903,
+                    "startOffset": 64453,
+                    "endLine": 759,
                     "endColumn": 12,
-                    "endOffset": 74461
+                    "endOffset": 65715
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3646,12 +3631,12 @@
             },
             {
                 "to": {
-                    "startLine": 904,
+                    "startLine": 760,
                     "startColumn": 4,
-                    "startOffset": 74466,
-                    "endLine": 925,
+                    "startOffset": 65720,
+                    "endLine": 904,
                     "endColumn": 12,
-                    "endOffset": 75742
+                    "endOffset": 74539
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3659,12 +3644,12 @@
             },
             {
                 "to": {
-                    "startLine": 926,
+                    "startLine": 905,
                     "startColumn": 4,
-                    "startOffset": 75747,
-                    "endLine": 932,
+                    "startOffset": 74544,
+                    "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 76278
+                    "endOffset": 75820
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3672,12 +3657,12 @@
             },
             {
                 "to": {
-                    "startLine": 933,
+                    "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 76283,
-                    "endLine": 937,
+                    "startOffset": 75825,
+                    "endLine": 933,
                     "endColumn": 12,
-                    "endOffset": 76608
+                    "endOffset": 76356
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3685,12 +3670,12 @@
             },
             {
                 "to": {
-                    "startLine": 938,
+                    "startLine": 934,
                     "startColumn": 4,
-                    "startOffset": 76613,
-                    "endLine": 958,
+                    "startOffset": 76361,
+                    "endLine": 938,
                     "endColumn": 12,
-                    "endOffset": 77731
+                    "endOffset": 76686
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3698,12 +3683,12 @@
             },
             {
                 "to": {
-                    "startLine": 959,
+                    "startLine": 939,
                     "startColumn": 4,
-                    "startOffset": 77736,
-                    "endLine": 963,
+                    "startOffset": 76691,
+                    "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 77987
+                    "endOffset": 77809
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3711,12 +3696,12 @@
             },
             {
                 "to": {
-                    "startLine": 964,
+                    "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 77992,
-                    "endLine": 968,
+                    "startOffset": 77814,
+                    "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 78223
+                    "endOffset": 78065
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3724,12 +3709,12 @@
             },
             {
                 "to": {
-                    "startLine": 969,
+                    "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 78228,
-                    "endLine": 978,
+                    "startOffset": 78070,
+                    "endLine": 969,
                     "endColumn": 12,
-                    "endOffset": 78770
+                    "endOffset": 78301
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3737,12 +3722,12 @@
             },
             {
                 "to": {
-                    "startLine": 979,
+                    "startLine": 970,
                     "startColumn": 4,
-                    "startOffset": 78775,
-                    "endLine": 987,
+                    "startOffset": 78306,
+                    "endLine": 979,
                     "endColumn": 12,
-                    "endOffset": 79264
+                    "endOffset": 78848
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3750,12 +3735,12 @@
             },
             {
                 "to": {
-                    "startLine": 988,
+                    "startLine": 980,
                     "startColumn": 4,
-                    "startOffset": 79269,
-                    "endLine": 998,
+                    "startOffset": 78853,
+                    "endLine": 988,
                     "endColumn": 12,
-                    "endOffset": 79937
+                    "endOffset": 79342
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3763,12 +3748,12 @@
             },
             {
                 "to": {
-                    "startLine": 999,
+                    "startLine": 989,
                     "startColumn": 4,
-                    "startOffset": 79942,
-                    "endLine": 1002,
+                    "startOffset": 79347,
+                    "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 80152
+                    "endOffset": 80015
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3776,12 +3761,12 @@
             },
             {
                 "to": {
-                    "startLine": 1003,
+                    "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 80157,
-                    "endLine": 1009,
+                    "startOffset": 80020,
+                    "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 80680
+                    "endOffset": 80230
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3789,12 +3774,12 @@
             },
             {
                 "to": {
-                    "startLine": 1010,
+                    "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 80685,
-                    "endLine": 1017,
+                    "startOffset": 80235,
+                    "endLine": 1010,
                     "endColumn": 12,
-                    "endOffset": 81244
+                    "endOffset": 80758
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3802,12 +3787,12 @@
             },
             {
                 "to": {
-                    "startLine": 1018,
+                    "startLine": 1011,
                     "startColumn": 4,
-                    "startOffset": 81249,
-                    "endLine": 1024,
+                    "startOffset": 80763,
+                    "endLine": 1018,
                     "endColumn": 12,
-                    "endOffset": 81619
+                    "endOffset": 81322
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3815,11 +3800,12 @@
             },
             {
                 "to": {
-                    "startLine": 1025,
+                    "startLine": 1019,
                     "startColumn": 4,
-                    "startOffset": 81624,
-                    "endColumn": 117,
-                    "endOffset": 81737
+                    "startOffset": 81327,
+                    "endLine": 1025,
+                    "endColumn": 12,
+                    "endOffset": 81697
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3829,10 +3815,9 @@
                 "to": {
                     "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 81742,
-                    "endLine": 1034,
-                    "endColumn": 12,
-                    "endOffset": 82275
+                    "startOffset": 81702,
+                    "endColumn": 117,
+                    "endOffset": 81815
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3840,12 +3825,12 @@
             },
             {
                 "to": {
-                    "startLine": 1035,
+                    "startLine": 1027,
                     "startColumn": 4,
-                    "startOffset": 82280,
-                    "endLine": 1037,
+                    "startOffset": 81820,
+                    "endLine": 1035,
                     "endColumn": 12,
-                    "endOffset": 82432
+                    "endOffset": 82353
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3853,12 +3838,12 @@
             },
             {
                 "to": {
-                    "startLine": 1038,
+                    "startLine": 1036,
                     "startColumn": 4,
-                    "startOffset": 82437,
-                    "endLine": 1040,
+                    "startOffset": 82358,
+                    "endLine": 1038,
                     "endColumn": 12,
-                    "endOffset": 82576
+                    "endOffset": 82510
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3866,12 +3851,12 @@
             },
             {
                 "to": {
-                    "startLine": 1041,
+                    "startLine": 1039,
                     "startColumn": 4,
-                    "startOffset": 82581,
-                    "endLine": 1045,
+                    "startOffset": 82515,
+                    "endLine": 1041,
                     "endColumn": 12,
-                    "endOffset": 82896
+                    "endOffset": 82654
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3879,12 +3864,12 @@
             },
             {
                 "to": {
-                    "startLine": 1046,
+                    "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 82901,
-                    "endLine": 1049,
+                    "startOffset": 82659,
+                    "endLine": 1046,
                     "endColumn": 12,
-                    "endOffset": 83066
+                    "endOffset": 82974
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3892,12 +3877,12 @@
             },
             {
                 "to": {
-                    "startLine": 1050,
+                    "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 83071,
-                    "endLine": 1052,
+                    "startOffset": 82979,
+                    "endLine": 1050,
                     "endColumn": 12,
-                    "endOffset": 83207
+                    "endOffset": 83144
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3905,12 +3890,12 @@
             },
             {
                 "to": {
-                    "startLine": 1053,
+                    "startLine": 1051,
                     "startColumn": 4,
-                    "startOffset": 83212,
-                    "endLine": 1055,
+                    "startOffset": 83149,
+                    "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 83336
+                    "endOffset": 83285
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3918,12 +3903,12 @@
             },
             {
                 "to": {
-                    "startLine": 1056,
+                    "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 83341,
-                    "endLine": 1059,
+                    "startOffset": 83290,
+                    "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 83635
+                    "endOffset": 83414
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3931,12 +3916,12 @@
             },
             {
                 "to": {
-                    "startLine": 1060,
+                    "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 83640,
-                    "endLine": 1063,
+                    "startOffset": 83419,
+                    "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 83938
+                    "endOffset": 83713
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3944,12 +3929,12 @@
             },
             {
                 "to": {
-                    "startLine": 1064,
+                    "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 83943,
-                    "endLine": 1071,
+                    "startOffset": 83718,
+                    "endLine": 1064,
                     "endColumn": 12,
-                    "endOffset": 84497
+                    "endOffset": 84016
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3957,12 +3942,12 @@
             },
             {
                 "to": {
-                    "startLine": 1072,
+                    "startLine": 1065,
                     "startColumn": 4,
-                    "startOffset": 84502,
-                    "endLine": 1076,
+                    "startOffset": 84021,
+                    "endLine": 1072,
                     "endColumn": 12,
-                    "endOffset": 84759
+                    "endOffset": 84575
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3970,12 +3955,12 @@
             },
             {
                 "to": {
-                    "startLine": 1077,
+                    "startLine": 1073,
                     "startColumn": 4,
-                    "startOffset": 84764,
-                    "endLine": 1083,
+                    "startOffset": 84580,
+                    "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 85109
+                    "endOffset": 84837
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3983,12 +3968,12 @@
             },
             {
                 "to": {
-                    "startLine": 1084,
+                    "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 85114,
-                    "endLine": 1089,
+                    "startOffset": 84842,
+                    "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 85462
+                    "endOffset": 85187
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -3996,11 +3981,12 @@
             },
             {
                 "to": {
-                    "startLine": 1090,
+                    "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 85467,
-                    "endColumn": 93,
-                    "endOffset": 85556
+                    "startOffset": 85192,
+                    "endLine": 1090,
+                    "endColumn": 12,
+                    "endOffset": 85540
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4010,10 +3996,9 @@
                 "to": {
                     "startLine": 1091,
                     "startColumn": 4,
-                    "startOffset": 85561,
-                    "endLine": 1094,
-                    "endColumn": 12,
-                    "endOffset": 85862
+                    "startOffset": 85545,
+                    "endColumn": 93,
+                    "endOffset": 85634
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4021,12 +4006,12 @@
             },
             {
                 "to": {
-                    "startLine": 1095,
+                    "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 85867,
-                    "endLine": 1099,
+                    "startOffset": 85639,
+                    "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 86124
+                    "endOffset": 85940
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4034,12 +4019,12 @@
             },
             {
                 "to": {
-                    "startLine": 1100,
+                    "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 86129,
-                    "endLine": 1101,
+                    "startOffset": 85945,
+                    "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 86249
+                    "endOffset": 86202
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4047,12 +4032,12 @@
             },
             {
                 "to": {
-                    "startLine": 1102,
+                    "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 86254,
-                    "endLine": 1103,
+                    "startOffset": 86207,
+                    "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 86376
+                    "endOffset": 86327
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4060,12 +4045,12 @@
             },
             {
                 "to": {
-                    "startLine": 1104,
+                    "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 86381,
-                    "endLine": 1106,
+                    "startOffset": 86332,
+                    "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 86615
+                    "endOffset": 86454
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4073,12 +4058,12 @@
             },
             {
                 "to": {
-                    "startLine": 1107,
+                    "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 86620,
-                    "endLine": 1109,
+                    "startOffset": 86459,
+                    "endLine": 1107,
                     "endColumn": 12,
-                    "endOffset": 86826
+                    "endOffset": 86693
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4086,12 +4071,12 @@
             },
             {
                 "to": {
-                    "startLine": 1110,
+                    "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 86831,
-                    "endLine": 1111,
+                    "startOffset": 86698,
+                    "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 86945
+                    "endOffset": 86904
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4099,12 +4084,12 @@
             },
             {
                 "to": {
-                    "startLine": 1112,
+                    "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 86950,
-                    "endLine": 1115,
+                    "startOffset": 86909,
+                    "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 87138
+                    "endOffset": 87023
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4112,12 +4097,12 @@
             },
             {
                 "to": {
-                    "startLine": 1116,
+                    "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 87143,
-                    "endLine": 1122,
+                    "startOffset": 87028,
+                    "endLine": 1116,
                     "endColumn": 12,
-                    "endOffset": 87593
+                    "endOffset": 87216
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4125,12 +4110,12 @@
             },
             {
                 "to": {
-                    "startLine": 1123,
+                    "startLine": 1117,
                     "startColumn": 4,
-                    "startOffset": 87598,
-                    "endLine": 1125,
+                    "startOffset": 87221,
+                    "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 87774
+                    "endOffset": 87671
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4138,12 +4123,12 @@
             },
             {
                 "to": {
-                    "startLine": 1126,
+                    "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 87779,
-                    "endLine": 1128,
+                    "startOffset": 87676,
+                    "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 87896
+                    "endOffset": 87852
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4151,12 +4136,12 @@
             },
             {
                 "to": {
-                    "startLine": 1129,
+                    "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 87901,
-                    "endLine": 1132,
+                    "startOffset": 87857,
+                    "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 88155
+                    "endOffset": 87974
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4164,12 +4149,12 @@
             },
             {
                 "to": {
-                    "startLine": 1133,
+                    "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 88160,
-                    "endLine": 1134,
+                    "startOffset": 87979,
+                    "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 88268
+                    "endOffset": 88233
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4177,12 +4162,12 @@
             },
             {
                 "to": {
-                    "startLine": 1135,
+                    "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 88273,
-                    "endLine": 1138,
+                    "startOffset": 88238,
+                    "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 88455
+                    "endOffset": 88346
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4190,12 +4175,12 @@
             },
             {
                 "to": {
-                    "startLine": 1139,
+                    "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 88460,
-                    "endLine": 1140,
+                    "startOffset": 88351,
+                    "endLine": 1139,
                     "endColumn": 12,
-                    "endOffset": 88557
+                    "endOffset": 88533
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4203,12 +4188,12 @@
             },
             {
                 "to": {
-                    "startLine": 1141,
+                    "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 88562,
-                    "endLine": 1146,
+                    "startOffset": 88538,
+                    "endLine": 1141,
                     "endColumn": 12,
-                    "endOffset": 89001
+                    "endOffset": 88635
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4216,12 +4201,12 @@
             },
             {
                 "to": {
-                    "startLine": 1147,
+                    "startLine": 1142,
                     "startColumn": 4,
-                    "startOffset": 89006,
-                    "endLine": 1148,
+                    "startOffset": 88640,
+                    "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 89125
+                    "endOffset": 89079
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4229,12 +4214,12 @@
             },
             {
                 "to": {
-                    "startLine": 1149,
+                    "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 89130,
-                    "endLine": 1152,
+                    "startOffset": 89084,
+                    "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 89410
+                    "endOffset": 89203
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4242,12 +4227,12 @@
             },
             {
                 "to": {
-                    "startLine": 1153,
+                    "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 89415,
-                    "endLine": 1164,
+                    "startOffset": 89208,
+                    "endLine": 1153,
                     "endColumn": 12,
-                    "endOffset": 90297
+                    "endOffset": 89488
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4255,12 +4240,12 @@
             },
             {
                 "to": {
-                    "startLine": 1165,
+                    "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 90302,
-                    "endLine": 1170,
+                    "startOffset": 89493,
+                    "endLine": 1165,
                     "endColumn": 12,
-                    "endOffset": 90591
+                    "endOffset": 90375
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4268,12 +4253,12 @@
             },
             {
                 "to": {
-                    "startLine": 1171,
+                    "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 90596,
-                    "endLine": 1175,
+                    "startOffset": 90380,
+                    "endLine": 1171,
                     "endColumn": 12,
-                    "endOffset": 90921
+                    "endOffset": 90669
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4281,12 +4266,12 @@
             },
             {
                 "to": {
-                    "startLine": 1176,
+                    "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 90926,
-                    "endLine": 1190,
+                    "startOffset": 90674,
+                    "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 91841
+                    "endOffset": 90999
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4294,12 +4279,12 @@
             },
             {
                 "to": {
-                    "startLine": 1191,
+                    "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 91846,
-                    "endLine": 1193,
+                    "startOffset": 91004,
+                    "endLine": 1191,
                     "endColumn": 12,
-                    "endOffset": 92013
+                    "endOffset": 91919
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4307,12 +4292,12 @@
             },
             {
                 "to": {
-                    "startLine": 1194,
+                    "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 92018,
-                    "endLine": 1198,
+                    "startOffset": 91924,
+                    "endLine": 1194,
                     "endColumn": 12,
-                    "endOffset": 92349
+                    "endOffset": 92091
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4320,12 +4305,12 @@
             },
             {
                 "to": {
-                    "startLine": 1199,
+                    "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 92354,
-                    "endLine": 1208,
+                    "startOffset": 92096,
+                    "endLine": 1199,
                     "endColumn": 12,
-                    "endOffset": 93015
+                    "endOffset": 92427
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4333,12 +4318,12 @@
             },
             {
                 "to": {
-                    "startLine": 1209,
+                    "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 93020,
-                    "endLine": 1213,
+                    "startOffset": 92432,
+                    "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 93300
+                    "endOffset": 93093
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4346,12 +4331,12 @@
             },
             {
                 "to": {
-                    "startLine": 1214,
+                    "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 93305,
-                    "endLine": 1251,
+                    "startOffset": 93098,
+                    "endLine": 1214,
                     "endColumn": 12,
-                    "endOffset": 96127
+                    "endOffset": 93378
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4359,12 +4344,12 @@
             },
             {
                 "to": {
-                    "startLine": 1252,
+                    "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 96132,
-                    "endLine": 1290,
+                    "startOffset": 93383,
+                    "endLine": 1252,
                     "endColumn": 12,
-                    "endOffset": 99095
+                    "endOffset": 96205
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4372,12 +4357,12 @@
             },
             {
                 "to": {
-                    "startLine": 1291,
+                    "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 99100,
-                    "endLine": 1300,
+                    "startOffset": 96210,
+                    "endLine": 1291,
                     "endColumn": 12,
-                    "endOffset": 99683
+                    "endOffset": 99173
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4385,12 +4370,12 @@
             },
             {
                 "to": {
-                    "startLine": 1301,
+                    "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 99688,
-                    "endLine": 1309,
+                    "startOffset": 99178,
+                    "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 100277
+                    "endOffset": 99761
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4398,12 +4383,12 @@
             },
             {
                 "to": {
-                    "startLine": 1310,
+                    "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 100282,
-                    "endLine": 1311,
+                    "startOffset": 99766,
+                    "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 100390
+                    "endOffset": 100355
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4411,12 +4396,12 @@
             },
             {
                 "to": {
-                    "startLine": 1312,
+                    "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 100395,
-                    "endLine": 1315,
+                    "startOffset": 100360,
+                    "endLine": 1312,
                     "endColumn": 12,
-                    "endOffset": 100619
+                    "endOffset": 100468
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4424,12 +4409,12 @@
             },
             {
                 "to": {
-                    "startLine": 1316,
+                    "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 100624,
-                    "endLine": 1319,
+                    "startOffset": 100473,
+                    "endLine": 1316,
                     "endColumn": 12,
-                    "endOffset": 100957
+                    "endOffset": 100697
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4437,12 +4422,12 @@
             },
             {
                 "to": {
-                    "startLine": 1320,
+                    "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 100962,
-                    "endLine": 1322,
+                    "startOffset": 100702,
+                    "endLine": 1320,
                     "endColumn": 12,
-                    "endOffset": 101117
+                    "endOffset": 101035
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4450,12 +4435,12 @@
             },
             {
                 "to": {
-                    "startLine": 1323,
+                    "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 101122,
-                    "endLine": 1325,
+                    "startOffset": 101040,
+                    "endLine": 1323,
                     "endColumn": 12,
-                    "endOffset": 101269
+                    "endOffset": 101195
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4463,12 +4448,12 @@
             },
             {
                 "to": {
-                    "startLine": 1326,
+                    "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 101274,
-                    "endLine": 1328,
+                    "startOffset": 101200,
+                    "endLine": 1326,
                     "endColumn": 12,
-                    "endOffset": 101440
+                    "endOffset": 101347
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4476,12 +4461,12 @@
             },
             {
                 "to": {
-                    "startLine": 1329,
+                    "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 101445,
-                    "endLine": 1331,
+                    "startOffset": 101352,
+                    "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 101607
+                    "endOffset": 101518
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4489,12 +4474,12 @@
             },
             {
                 "to": {
-                    "startLine": 1332,
+                    "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 101612,
-                    "endLine": 1335,
+                    "startOffset": 101523,
+                    "endLine": 1332,
                     "endColumn": 12,
-                    "endOffset": 101850
+                    "endOffset": 101685
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4502,12 +4487,12 @@
             },
             {
                 "to": {
-                    "startLine": 1336,
+                    "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 101855,
-                    "endLine": 1338,
+                    "startOffset": 101690,
+                    "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 102020
+                    "endOffset": 101928
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4515,12 +4500,12 @@
             },
             {
                 "to": {
-                    "startLine": 1339,
+                    "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 102025,
-                    "endLine": 1341,
+                    "startOffset": 101933,
+                    "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 102193
+                    "endOffset": 102098
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4528,12 +4513,12 @@
             },
             {
                 "to": {
-                    "startLine": 1342,
+                    "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 102198,
-                    "endLine": 1344,
+                    "startOffset": 102103,
+                    "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 102364
+                    "endOffset": 102271
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4541,12 +4526,12 @@
             },
             {
                 "to": {
-                    "startLine": 1345,
+                    "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102369,
-                    "endLine": 1348,
+                    "startOffset": 102276,
+                    "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 102638
+                    "endOffset": 102442
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4554,12 +4539,12 @@
             },
             {
                 "to": {
-                    "startLine": 1349,
+                    "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 102643,
-                    "endLine": 1351,
+                    "startOffset": 102447,
+                    "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 102837
+                    "endOffset": 102716
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4567,12 +4552,12 @@
             },
             {
                 "to": {
-                    "startLine": 1352,
+                    "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102842,
-                    "endLine": 1354,
+                    "startOffset": 102721,
+                    "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 103084
+                    "endOffset": 102915
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4580,11 +4565,12 @@
             },
             {
                 "to": {
-                    "startLine": 1355,
+                    "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 103089,
-                    "endColumn": 83,
-                    "endOffset": 103168
+                    "startOffset": 102920,
+                    "endLine": 1355,
+                    "endColumn": 12,
+                    "endOffset": 103162
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4594,9 +4580,9 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103173,
-                    "endColumn": 95,
-                    "endOffset": 103264
+                    "startOffset": 103167,
+                    "endColumn": 83,
+                    "endOffset": 103246
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4606,9 +4592,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 103269,
+                    "startOffset": 103251,
                     "endColumn": 95,
-                    "endOffset": 103360
+                    "endOffset": 103342
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4618,9 +4604,9 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103365,
-                    "endColumn": 97,
-                    "endOffset": 103458
+                    "startOffset": 103347,
+                    "endColumn": 95,
+                    "endOffset": 103438
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4630,9 +4616,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 103463,
-                    "endColumn": 99,
-                    "endOffset": 103558
+                    "startOffset": 103443,
+                    "endColumn": 97,
+                    "endOffset": 103536
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4642,9 +4628,9 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103563,
-                    "endColumn": 101,
-                    "endOffset": 103660
+                    "startOffset": 103541,
+                    "endColumn": 99,
+                    "endOffset": 103636
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4654,9 +4640,9 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 103665,
+                    "startOffset": 103641,
                     "endColumn": 101,
-                    "endOffset": 103762
+                    "endOffset": 103738
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4666,9 +4652,9 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 103767,
+                    "startOffset": 103743,
                     "endColumn": 101,
-                    "endOffset": 103864
+                    "endOffset": 103840
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4678,9 +4664,9 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 103869,
+                    "startOffset": 103845,
                     "endColumn": 101,
-                    "endOffset": 103966
+                    "endOffset": 103942
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4690,9 +4676,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 103971,
+                    "startOffset": 103947,
                     "endColumn": 101,
-                    "endOffset": 104068
+                    "endOffset": 104044
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4702,9 +4688,9 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 104073,
-                    "endColumn": 99,
-                    "endOffset": 104168
+                    "startOffset": 104049,
+                    "endColumn": 101,
+                    "endOffset": 104146
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4714,9 +4700,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 104173,
-                    "endColumn": 95,
-                    "endOffset": 104264
+                    "startOffset": 104151,
+                    "endColumn": 99,
+                    "endOffset": 104246
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4726,9 +4712,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 104269,
-                    "endColumn": 111,
-                    "endOffset": 104376
+                    "startOffset": 104251,
+                    "endColumn": 95,
+                    "endOffset": 104342
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4738,9 +4724,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104381,
-                    "endColumn": 128,
-                    "endOffset": 104505
+                    "startOffset": 104347,
+                    "endColumn": 111,
+                    "endOffset": 104454
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4750,9 +4736,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104510,
-                    "endColumn": 122,
-                    "endOffset": 104628
+                    "startOffset": 104459,
+                    "endColumn": 128,
+                    "endOffset": 104583
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4762,10 +4748,9 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 104633,
-                    "endLine": 1371,
-                    "endColumn": 12,
-                    "endOffset": 104782
+                    "startOffset": 104588,
+                    "endColumn": 122,
+                    "endOffset": 104706
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4773,12 +4758,12 @@
             },
             {
                 "to": {
-                    "startLine": 1372,
+                    "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104787,
-                    "endLine": 1373,
+                    "startOffset": 104711,
+                    "endLine": 1372,
                     "endColumn": 12,
-                    "endOffset": 104936
+                    "endOffset": 104860
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4786,11 +4771,12 @@
             },
             {
                 "to": {
-                    "startLine": 1374,
+                    "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104941,
-                    "endColumn": 97,
-                    "endOffset": 105034
+                    "startOffset": 104865,
+                    "endLine": 1374,
+                    "endColumn": 12,
+                    "endOffset": 105014
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4800,9 +4786,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 105039,
-                    "endColumn": 113,
-                    "endOffset": 105148
+                    "startOffset": 105019,
+                    "endColumn": 97,
+                    "endOffset": 105112
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4812,9 +4798,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105153,
-                    "endColumn": 93,
-                    "endOffset": 105242
+                    "startOffset": 105117,
+                    "endColumn": 113,
+                    "endOffset": 105226
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4824,10 +4810,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 105247,
-                    "endLine": 1378,
-                    "endColumn": 12,
-                    "endOffset": 105382
+                    "startOffset": 105231,
+                    "endColumn": 93,
+                    "endOffset": 105320
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4835,12 +4820,12 @@
             },
             {
                 "to": {
-                    "startLine": 1379,
+                    "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 105387,
-                    "endLine": 1380,
+                    "startOffset": 105325,
+                    "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 105516
+                    "endOffset": 105460
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4848,11 +4833,12 @@
             },
             {
                 "to": {
-                    "startLine": 1381,
+                    "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105521,
-                    "endColumn": 95,
-                    "endOffset": 105612
+                    "startOffset": 105465,
+                    "endLine": 1381,
+                    "endColumn": 12,
+                    "endOffset": 105594
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4862,9 +4848,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105617,
-                    "endColumn": 111,
-                    "endOffset": 105724
+                    "startOffset": 105599,
+                    "endColumn": 95,
+                    "endOffset": 105690
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4874,9 +4860,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105729,
-                    "endColumn": 99,
-                    "endOffset": 105824
+                    "startOffset": 105695,
+                    "endColumn": 111,
+                    "endOffset": 105802
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4886,9 +4872,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105829,
-                    "endColumn": 115,
-                    "endOffset": 105940
+                    "startOffset": 105807,
+                    "endColumn": 99,
+                    "endOffset": 105902
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4898,9 +4884,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105945,
-                    "endColumn": 95,
-                    "endOffset": 106036
+                    "startOffset": 105907,
+                    "endColumn": 115,
+                    "endOffset": 106018
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4910,9 +4896,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106041,
-                    "endColumn": 111,
-                    "endOffset": 106148
+                    "startOffset": 106023,
+                    "endColumn": 95,
+                    "endOffset": 106114
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4922,10 +4908,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 106153,
-                    "endLine": 1388,
-                    "endColumn": 12,
-                    "endOffset": 106288
+                    "startOffset": 106119,
+                    "endColumn": 111,
+                    "endOffset": 106226
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4933,12 +4918,12 @@
             },
             {
                 "to": {
-                    "startLine": 1389,
+                    "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 106293,
-                    "endLine": 1390,
+                    "startOffset": 106231,
+                    "endLine": 1389,
                     "endColumn": 12,
-                    "endOffset": 106436
+                    "endOffset": 106366
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4946,12 +4931,12 @@
             },
             {
                 "to": {
-                    "startLine": 1391,
+                    "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 106441,
-                    "endLine": 1392,
+                    "startOffset": 106371,
+                    "endLine": 1391,
                     "endColumn": 12,
-                    "endOffset": 106600
+                    "endOffset": 106514
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4959,12 +4944,12 @@
             },
             {
                 "to": {
-                    "startLine": 1393,
+                    "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106605,
-                    "endLine": 1394,
+                    "startOffset": 106519,
+                    "endLine": 1393,
                     "endColumn": 12,
-                    "endOffset": 106742
+                    "endOffset": 106678
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4972,12 +4957,12 @@
             },
             {
                 "to": {
-                    "startLine": 1395,
+                    "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 106747,
-                    "endLine": 1396,
+                    "startOffset": 106683,
+                    "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 106900
+                    "endOffset": 106820
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4985,12 +4970,12 @@
             },
             {
                 "to": {
-                    "startLine": 1397,
+                    "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 106905,
-                    "endLine": 1398,
+                    "startOffset": 106825,
+                    "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 107050
+                    "endOffset": 106978
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -4998,11 +4983,12 @@
             },
             {
                 "to": {
-                    "startLine": 1399,
+                    "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 107055,
-                    "endColumn": 140,
-                    "endOffset": 107191
+                    "startOffset": 106983,
+                    "endLine": 1399,
+                    "endColumn": 12,
+                    "endOffset": 107128
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5012,10 +4998,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 107196,
-                    "endLine": 1401,
-                    "endColumn": 12,
-                    "endOffset": 107335
+                    "startOffset": 107133,
+                    "endColumn": 140,
+                    "endOffset": 107269
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5023,11 +5008,12 @@
             },
             {
                 "to": {
-                    "startLine": 1402,
+                    "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 107340,
-                    "endColumn": 134,
-                    "endOffset": 107470
+                    "startOffset": 107274,
+                    "endLine": 1402,
+                    "endColumn": 12,
+                    "endOffset": 107413
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5037,10 +5023,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 107475,
-                    "endLine": 1404,
-                    "endColumn": 12,
-                    "endOffset": 107606
+                    "startOffset": 107418,
+                    "endColumn": 134,
+                    "endOffset": 107548
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5048,12 +5033,12 @@
             },
             {
                 "to": {
-                    "startLine": 1405,
+                    "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107611,
-                    "endLine": 1406,
+                    "startOffset": 107553,
+                    "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 107748
+                    "endOffset": 107684
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5061,12 +5046,12 @@
             },
             {
                 "to": {
-                    "startLine": 1407,
+                    "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107753,
-                    "endLine": 1408,
+                    "startOffset": 107689,
+                    "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 107890
+                    "endOffset": 107826
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5074,11 +5059,12 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107895,
-                    "endColumn": 111,
-                    "endOffset": 108002
+                    "startOffset": 107831,
+                    "endLine": 1409,
+                    "endColumn": 12,
+                    "endOffset": 107968
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5088,9 +5074,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 108007,
-                    "endColumn": 139,
-                    "endOffset": 108142
+                    "startOffset": 107973,
+                    "endColumn": 111,
+                    "endOffset": 108080
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5100,9 +5086,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 108147,
-                    "endColumn": 67,
-                    "endOffset": 108210
+                    "startOffset": 108085,
+                    "endColumn": 139,
+                    "endOffset": 108220
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5112,9 +5098,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108215,
-                    "endColumn": 72,
-                    "endOffset": 108283
+                    "startOffset": 108225,
+                    "endColumn": 67,
+                    "endOffset": 108288
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5124,9 +5110,9 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 108288,
-                    "endColumn": 73,
-                    "endOffset": 108357
+                    "startOffset": 108293,
+                    "endColumn": 72,
+                    "endOffset": 108361
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5136,9 +5122,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108362,
-                    "endColumn": 72,
-                    "endOffset": 108430
+                    "startOffset": 108366,
+                    "endColumn": 73,
+                    "endOffset": 108435
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5148,9 +5134,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108435,
-                    "endColumn": 73,
-                    "endOffset": 108504
+                    "startOffset": 108440,
+                    "endColumn": 72,
+                    "endOffset": 108508
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5160,10 +5146,9 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 108509,
-                    "endLine": 1417,
-                    "endColumn": 12,
-                    "endOffset": 108650
+                    "startOffset": 108513,
+                    "endColumn": 73,
+                    "endOffset": 108582
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5171,12 +5156,12 @@
             },
             {
                 "to": {
-                    "startLine": 1418,
+                    "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 108655,
-                    "endLine": 1419,
+                    "startOffset": 108587,
+                    "endLine": 1418,
                     "endColumn": 12,
-                    "endOffset": 108794
+                    "endOffset": 108728
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5184,12 +5169,12 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 108799,
-                    "endLine": 1421,
+                    "startOffset": 108733,
+                    "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 108932
+                    "endOffset": 108872
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5197,11 +5182,12 @@
             },
             {
                 "to": {
-                    "startLine": 1422,
+                    "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 108937,
-                    "endColumn": 65,
-                    "endOffset": 108998
+                    "startOffset": 108877,
+                    "endLine": 1422,
+                    "endColumn": 12,
+                    "endOffset": 109010
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5211,9 +5197,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 109003,
-                    "endColumn": 89,
-                    "endOffset": 109088
+                    "startOffset": 109015,
+                    "endColumn": 65,
+                    "endOffset": 109076
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5223,9 +5209,9 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 109093,
-                    "endColumn": 79,
-                    "endOffset": 109168
+                    "startOffset": 109081,
+                    "endColumn": 89,
+                    "endOffset": 109166
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5235,9 +5221,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 109173,
-                    "endColumn": 91,
-                    "endOffset": 109260
+                    "startOffset": 109171,
+                    "endColumn": 79,
+                    "endOffset": 109246
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5247,9 +5233,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109265,
-                    "endColumn": 97,
-                    "endOffset": 109358
+                    "startOffset": 109251,
+                    "endColumn": 91,
+                    "endOffset": 109338
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5259,10 +5245,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 109363,
-                    "endLine": 1428,
-                    "endColumn": 12,
-                    "endOffset": 109468
+                    "startOffset": 109343,
+                    "endColumn": 97,
+                    "endOffset": 109436
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5270,10 +5255,11 @@
             },
             {
                 "to": {
-                    "startLine": 1429,
+                    "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 109473,
-                    "endColumn": 77,
+                    "startOffset": 109441,
+                    "endLine": 1429,
+                    "endColumn": 12,
                     "endOffset": 109546
                 },
                 "from": {
@@ -5285,8 +5271,8 @@
                     "startLine": 1430,
                     "startColumn": 4,
                     "startOffset": 109551,
-                    "endColumn": 105,
-                    "endOffset": 109652
+                    "endColumn": 77,
+                    "endOffset": 109624
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5296,9 +5282,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 109657,
-                    "endColumn": 91,
-                    "endOffset": 109744
+                    "startOffset": 109629,
+                    "endColumn": 105,
+                    "endOffset": 109730
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5308,9 +5294,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 109749,
-                    "endColumn": 103,
-                    "endOffset": 109848
+                    "startOffset": 109735,
+                    "endColumn": 91,
+                    "endOffset": 109822
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5320,9 +5306,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109853,
-                    "endColumn": 109,
-                    "endOffset": 109958
+                    "startOffset": 109827,
+                    "endColumn": 103,
+                    "endOffset": 109926
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5332,10 +5318,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 109963,
-                    "endLine": 1435,
-                    "endColumn": 12,
-                    "endOffset": 110080
+                    "startOffset": 109931,
+                    "endColumn": 109,
+                    "endOffset": 110036
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5343,12 +5328,12 @@
             },
             {
                 "to": {
-                    "startLine": 1436,
+                    "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 110085,
-                    "endLine": 1439,
+                    "startOffset": 110041,
+                    "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 110243
+                    "endOffset": 110158
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5356,12 +5341,12 @@
             },
             {
                 "to": {
-                    "startLine": 1440,
+                    "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 110248,
-                    "endLine": 1443,
+                    "startOffset": 110163,
+                    "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 110400
+                    "endOffset": 110321
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5369,11 +5354,12 @@
             },
             {
                 "to": {
-                    "startLine": 1444,
+                    "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110405,
-                    "endColumn": 79,
-                    "endOffset": 110480
+                    "startOffset": 110326,
+                    "endLine": 1444,
+                    "endColumn": 12,
+                    "endOffset": 110478
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5383,9 +5369,9 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 110485,
-                    "endColumn": 99,
-                    "endOffset": 110580
+                    "startOffset": 110483,
+                    "endColumn": 79,
+                    "endOffset": 110558
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5395,9 +5381,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110585,
-                    "endColumn": 89,
-                    "endOffset": 110670
+                    "startOffset": 110563,
+                    "endColumn": 99,
+                    "endOffset": 110658
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5407,9 +5393,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 110675,
-                    "endColumn": 109,
-                    "endOffset": 110780
+                    "startOffset": 110663,
+                    "endColumn": 89,
+                    "endOffset": 110748
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5419,9 +5405,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110785,
-                    "endColumn": 91,
-                    "endOffset": 110872
+                    "startOffset": 110753,
+                    "endColumn": 109,
+                    "endOffset": 110858
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5431,10 +5417,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 110877,
-                    "endLine": 1450,
-                    "endColumn": 12,
-                    "endOffset": 110972
+                    "startOffset": 110863,
+                    "endColumn": 91,
+                    "endOffset": 110950
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5442,12 +5427,12 @@
             },
             {
                 "to": {
-                    "startLine": 1451,
+                    "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 110977,
-                    "endLine": 1452,
+                    "startOffset": 110955,
+                    "endLine": 1451,
                     "endColumn": 12,
-                    "endOffset": 111084
+                    "endOffset": 111050
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5455,12 +5440,12 @@
             },
             {
                 "to": {
-                    "startLine": 1453,
+                    "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111089,
-                    "endLine": 1454,
+                    "startOffset": 111055,
+                    "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 111198
+                    "endOffset": 111162
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5468,12 +5453,12 @@
             },
             {
                 "to": {
-                    "startLine": 1455,
+                    "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 111203,
-                    "endLine": 1456,
+                    "startOffset": 111167,
+                    "endLine": 1455,
                     "endColumn": 12,
-                    "endOffset": 111314
+                    "endOffset": 111276
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5481,12 +5466,12 @@
             },
             {
                 "to": {
-                    "startLine": 1457,
+                    "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111319,
-                    "endLine": 1458,
+                    "startOffset": 111281,
+                    "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 111430
+                    "endOffset": 111392
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5494,11 +5479,12 @@
             },
             {
                 "to": {
-                    "startLine": 1459,
+                    "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111435,
-                    "endColumn": 93,
-                    "endOffset": 111524
+                    "startOffset": 111397,
+                    "endLine": 1459,
+                    "endColumn": 12,
+                    "endOffset": 111508
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5508,9 +5494,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111529,
-                    "endColumn": 113,
-                    "endOffset": 111638
+                    "startOffset": 111513,
+                    "endColumn": 93,
+                    "endOffset": 111602
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5520,9 +5506,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111643,
-                    "endColumn": 117,
-                    "endOffset": 111756
+                    "startOffset": 111607,
+                    "endColumn": 113,
+                    "endOffset": 111716
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5532,10 +5518,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 111761,
-                    "endLine": 1463,
-                    "endColumn": 12,
-                    "endOffset": 111858
+                    "startOffset": 111721,
+                    "endColumn": 117,
+                    "endOffset": 111834
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5543,12 +5528,12 @@
             },
             {
                 "to": {
-                    "startLine": 1464,
+                    "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 111863,
-                    "endLine": 1465,
+                    "startOffset": 111839,
+                    "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 111978
+                    "endOffset": 111936
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5556,12 +5541,12 @@
             },
             {
                 "to": {
-                    "startLine": 1466,
+                    "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 111983,
-                    "endLine": 1467,
+                    "startOffset": 111941,
+                    "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 112100
+                    "endOffset": 112056
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5569,11 +5554,12 @@
             },
             {
                 "to": {
-                    "startLine": 1468,
+                    "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 112105,
-                    "endColumn": 81,
-                    "endOffset": 112182
+                    "startOffset": 112061,
+                    "endLine": 1468,
+                    "endColumn": 12,
+                    "endOffset": 112178
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5583,9 +5569,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 112187,
-                    "endColumn": 103,
-                    "endOffset": 112286
+                    "startOffset": 112183,
+                    "endColumn": 81,
+                    "endOffset": 112260
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5595,9 +5581,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 112291,
-                    "endColumn": 119,
-                    "endOffset": 112406
+                    "startOffset": 112265,
+                    "endColumn": 103,
+                    "endOffset": 112364
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5607,9 +5593,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112411,
-                    "endColumn": 125,
-                    "endOffset": 112532
+                    "startOffset": 112369,
+                    "endColumn": 119,
+                    "endOffset": 112484
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5619,9 +5605,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 112537,
-                    "endColumn": 93,
-                    "endOffset": 112626
+                    "startOffset": 112489,
+                    "endColumn": 125,
+                    "endOffset": 112610
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5631,9 +5617,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 112631,
-                    "endColumn": 87,
-                    "endOffset": 112714
+                    "startOffset": 112615,
+                    "endColumn": 93,
+                    "endOffset": 112704
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5643,9 +5629,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 112719,
-                    "endColumn": 111,
-                    "endOffset": 112826
+                    "startOffset": 112709,
+                    "endColumn": 87,
+                    "endOffset": 112792
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5655,9 +5641,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 112831,
-                    "endColumn": 115,
-                    "endOffset": 112942
+                    "startOffset": 112797,
+                    "endColumn": 111,
+                    "endOffset": 112904
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5667,9 +5653,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 112947,
-                    "endColumn": 121,
-                    "endOffset": 113064
+                    "startOffset": 112909,
+                    "endColumn": 115,
+                    "endOffset": 113020
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5679,9 +5665,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 113069,
-                    "endColumn": 111,
-                    "endOffset": 113176
+                    "startOffset": 113025,
+                    "endColumn": 121,
+                    "endOffset": 113142
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5691,10 +5677,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 113181,
-                    "endLine": 1480,
-                    "endColumn": 12,
-                    "endOffset": 113351
+                    "startOffset": 113147,
+                    "endColumn": 111,
+                    "endOffset": 113254
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5702,11 +5687,12 @@
             },
             {
                 "to": {
-                    "startLine": 1481,
+                    "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 113356,
-                    "endColumn": 115,
-                    "endOffset": 113467
+                    "startOffset": 113259,
+                    "endLine": 1481,
+                    "endColumn": 12,
+                    "endOffset": 113429
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5716,10 +5702,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 113472,
-                    "endLine": 1483,
-                    "endColumn": 12,
-                    "endOffset": 113565
+                    "startOffset": 113434,
+                    "endColumn": 115,
+                    "endOffset": 113545
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5727,12 +5712,12 @@
             },
             {
                 "to": {
-                    "startLine": 1484,
+                    "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 113570,
-                    "endLine": 1485,
+                    "startOffset": 113550,
+                    "endLine": 1484,
                     "endColumn": 12,
-                    "endOffset": 113677
+                    "endOffset": 113643
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5740,12 +5725,12 @@
             },
             {
                 "to": {
-                    "startLine": 1486,
+                    "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 113682,
-                    "endLine": 1487,
+                    "startOffset": 113648,
+                    "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 113801
+                    "endOffset": 113755
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5753,11 +5738,12 @@
             },
             {
                 "to": {
-                    "startLine": 1488,
+                    "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 113806,
-                    "endColumn": 66,
-                    "endOffset": 113868
+                    "startOffset": 113760,
+                    "endLine": 1488,
+                    "endColumn": 12,
+                    "endOffset": 113879
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5767,10 +5753,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 113873,
-                    "endLine": 1490,
-                    "endColumn": 12,
-                    "endOffset": 113994
+                    "startOffset": 113884,
+                    "endColumn": 66,
+                    "endOffset": 113946
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5778,11 +5763,12 @@
             },
             {
                 "to": {
-                    "startLine": 1491,
+                    "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 113999,
-                    "endColumn": 67,
-                    "endOffset": 114062
+                    "startOffset": 113951,
+                    "endLine": 1491,
+                    "endColumn": 12,
+                    "endOffset": 114072
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5792,10 +5778,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 114067,
-                    "endLine": 1493,
-                    "endColumn": 12,
-                    "endOffset": 114190
+                    "startOffset": 114077,
+                    "endColumn": 67,
+                    "endOffset": 114140
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5803,12 +5788,12 @@
             },
             {
                 "to": {
-                    "startLine": 1494,
+                    "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 114195,
-                    "endLine": 1495,
+                    "startOffset": 114145,
+                    "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 114334
+                    "endOffset": 114268
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5816,12 +5801,12 @@
             },
             {
                 "to": {
-                    "startLine": 1496,
+                    "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 114339,
-                    "endLine": 1497,
+                    "startOffset": 114273,
+                    "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 114462
+                    "endOffset": 114412
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5829,11 +5814,12 @@
             },
             {
                 "to": {
-                    "startLine": 1498,
+                    "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 114467,
-                    "endColumn": 68,
-                    "endOffset": 114531
+                    "startOffset": 114417,
+                    "endLine": 1498,
+                    "endColumn": 12,
+                    "endOffset": 114540
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5843,9 +5829,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114536,
-                    "endColumn": 94,
-                    "endOffset": 114626
+                    "startOffset": 114545,
+                    "endColumn": 68,
+                    "endOffset": 114609
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5855,9 +5841,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 114631,
-                    "endColumn": 114,
-                    "endOffset": 114741
+                    "startOffset": 114614,
+                    "endColumn": 94,
+                    "endOffset": 114704
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5867,9 +5853,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 114746,
-                    "endColumn": 112,
-                    "endOffset": 114854
+                    "startOffset": 114709,
+                    "endColumn": 114,
+                    "endOffset": 114819
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5879,9 +5865,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 114859,
-                    "endColumn": 98,
-                    "endOffset": 114953
+                    "startOffset": 114824,
+                    "endColumn": 112,
+                    "endOffset": 114932
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5891,9 +5877,9 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 114958,
-                    "endColumn": 108,
-                    "endOffset": 115062
+                    "startOffset": 114937,
+                    "endColumn": 98,
+                    "endOffset": 115031
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5903,9 +5889,9 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 115067,
-                    "endColumn": 110,
-                    "endOffset": 115173
+                    "startOffset": 115036,
+                    "endColumn": 108,
+                    "endOffset": 115140
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5915,9 +5901,9 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 115178,
+                    "startOffset": 115145,
                     "endColumn": 110,
-                    "endOffset": 115284
+                    "endOffset": 115251
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5927,9 +5913,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 115289,
-                    "endColumn": 100,
-                    "endOffset": 115385
+                    "startOffset": 115256,
+                    "endColumn": 110,
+                    "endOffset": 115362
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5939,9 +5925,9 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 115390,
-                    "endColumn": 104,
-                    "endOffset": 115490
+                    "startOffset": 115367,
+                    "endColumn": 100,
+                    "endOffset": 115463
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5951,10 +5937,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 115495,
-                    "endLine": 1509,
-                    "endColumn": 12,
-                    "endOffset": 115602
+                    "startOffset": 115468,
+                    "endColumn": 104,
+                    "endOffset": 115568
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5962,12 +5947,12 @@
             },
             {
                 "to": {
-                    "startLine": 1510,
+                    "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 115607,
-                    "endLine": 1511,
+                    "startOffset": 115573,
+                    "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 115732
+                    "endOffset": 115680
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5975,11 +5960,12 @@
             },
             {
                 "to": {
-                    "startLine": 1512,
+                    "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 115737,
-                    "endColumn": 90,
-                    "endOffset": 115823
+                    "startOffset": 115685,
+                    "endLine": 1512,
+                    "endColumn": 12,
+                    "endOffset": 115810
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -5989,9 +5975,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 115828,
-                    "endColumn": 122,
-                    "endOffset": 115946
+                    "startOffset": 115815,
+                    "endColumn": 90,
+                    "endOffset": 115901
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6001,10 +5987,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 115951,
-                    "endLine": 1515,
-                    "endColumn": 12,
-                    "endOffset": 116058
+                    "startOffset": 115906,
+                    "endColumn": 122,
+                    "endOffset": 116024
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6012,11 +5997,12 @@
             },
             {
                 "to": {
-                    "startLine": 1516,
+                    "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 116063,
-                    "endColumn": 85,
-                    "endOffset": 116144
+                    "startOffset": 116029,
+                    "endLine": 1516,
+                    "endColumn": 12,
+                    "endOffset": 116136
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6026,9 +6012,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 116149,
-                    "endColumn": 103,
-                    "endOffset": 116248
+                    "startOffset": 116141,
+                    "endColumn": 85,
+                    "endOffset": 116222
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6038,10 +6024,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 116253,
-                    "endLine": 1519,
-                    "endColumn": 12,
-                    "endOffset": 116356
+                    "startOffset": 116227,
+                    "endColumn": 103,
+                    "endOffset": 116326
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6049,12 +6034,12 @@
             },
             {
                 "to": {
-                    "startLine": 1520,
+                    "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 116361,
-                    "endLine": 1521,
+                    "startOffset": 116331,
+                    "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 116456
+                    "endOffset": 116434
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6062,12 +6047,12 @@
             },
             {
                 "to": {
-                    "startLine": 1522,
+                    "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 116461,
-                    "endLine": 1523,
+                    "startOffset": 116439,
+                    "endLine": 1522,
                     "endColumn": 12,
-                    "endOffset": 116574
+                    "endOffset": 116534
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6075,12 +6060,12 @@
             },
             {
                 "to": {
-                    "startLine": 1524,
+                    "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 116579,
-                    "endLine": 1525,
+                    "startOffset": 116539,
+                    "endLine": 1524,
                     "endColumn": 12,
-                    "endOffset": 116678
+                    "endOffset": 116652
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6088,12 +6073,12 @@
             },
             {
                 "to": {
-                    "startLine": 1526,
+                    "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 116683,
-                    "endLine": 1527,
+                    "startOffset": 116657,
+                    "endLine": 1526,
                     "endColumn": 12,
-                    "endOffset": 116782
+                    "endOffset": 116756
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6101,12 +6086,12 @@
             },
             {
                 "to": {
-                    "startLine": 1528,
+                    "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 116787,
-                    "endLine": 1529,
+                    "startOffset": 116761,
+                    "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 116908
+                    "endOffset": 116860
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6114,11 +6099,12 @@
             },
             {
                 "to": {
-                    "startLine": 1530,
+                    "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 116913,
-                    "endColumn": 87,
-                    "endOffset": 116996
+                    "startOffset": 116865,
+                    "endLine": 1530,
+                    "endColumn": 12,
+                    "endOffset": 116986
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6128,9 +6114,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 117001,
-                    "endColumn": 89,
-                    "endOffset": 117086
+                    "startOffset": 116991,
+                    "endColumn": 87,
+                    "endOffset": 117074
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6140,9 +6126,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 117091,
-                    "endColumn": 109,
-                    "endOffset": 117196
+                    "startOffset": 117079,
+                    "endColumn": 89,
+                    "endOffset": 117164
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6152,9 +6138,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 117201,
-                    "endColumn": 83,
-                    "endOffset": 117280
+                    "startOffset": 117169,
+                    "endColumn": 109,
+                    "endOffset": 117274
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6164,9 +6150,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 117285,
-                    "endColumn": 53,
-                    "endOffset": 117334
+                    "startOffset": 117279,
+                    "endColumn": 83,
+                    "endOffset": 117358
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6176,9 +6162,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 117339,
-                    "endColumn": 121,
-                    "endOffset": 117456
+                    "startOffset": 117363,
+                    "endColumn": 53,
+                    "endOffset": 117412
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6188,9 +6174,9 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 117461,
-                    "endColumn": 105,
-                    "endOffset": 117562
+                    "startOffset": 117417,
+                    "endColumn": 121,
+                    "endOffset": 117534
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6200,9 +6186,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 117567,
-                    "endColumn": 109,
-                    "endOffset": 117672
+                    "startOffset": 117539,
+                    "endColumn": 105,
+                    "endOffset": 117640
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6212,9 +6198,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 117677,
-                    "endColumn": 83,
-                    "endOffset": 117756
+                    "startOffset": 117645,
+                    "endColumn": 109,
+                    "endOffset": 117750
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
@@ -6224,9 +6210,21 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 117761,
+                    "startOffset": 117755,
+                    "endColumn": 83,
+                    "endOffset": 117834
+                },
+                "from": {
+                    "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1540,
+                    "startColumn": 4,
+                    "startOffset": 117839,
                     "endColumn": 125,
-                    "endOffset": 117882
+                    "endOffset": 117960
                 },
                 "from": {
                     "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values\\values.xml"

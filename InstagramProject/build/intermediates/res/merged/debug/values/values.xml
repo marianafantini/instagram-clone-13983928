@@ -287,6 +287,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">Instagram</string>
+    <string name="error_user_already_exists">Username already exists</string>
     <string name="hello_world">Hello World!</string>
     <string name="log_in">Log in</string>
     <string name="parse_app_id">YOUR_APPLICATION_ID</string>

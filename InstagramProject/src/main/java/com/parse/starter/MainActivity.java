@@ -13,14 +13,19 @@ import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseACL;
 import com.parse.ParseAnalytics;
@@ -29,15 +34,37 @@ import com.parse.ParseUser;
 import com.parse.SignUpCallback;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnKeyListener, View.OnClickListener {
 
     EditText usernameField;
     EditText passwordField;
+
+    Boolean signUpModeActive;
+
+    ImageView logo;
+    RelativeLayout relativeLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // app starts on sign up mode
+        signUpModeActive = true;
+
+        // set usernameField and passwordField to view fields
+        usernameField = (EditText) findViewById(R.id.edtUsername);
+        passwordField = (EditText) findViewById(R.id.edtPassword);
+
+        // attribute on key listener, so that it attempts to log in
+        // or sign up when user clicks on enter
+        passwordField.setOnKeyListener(this);
+
+        //
+        logo = (ImageView) findViewById(R.id.imageViewLogo);
+        logo.setOnClickListener(this);
+        relativeLayout = (RelativeLayout) findViewById(R.id.relativeLayout);
+        relativeLayout.setOnClickListener(this);
 
         ParseAnalytics.trackAppOpenedInBackground(getIntent());
     }
@@ -64,94 +91,130 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    /*
-    Functions used for activity_main.xml actions
+    /**
+     * Function used for switching the values inside the button and textview
+     * between log in and sign up according to the situation
      */
     public void switchButtons(View view) {
-        Button buttonOK = (Button) findViewById(R.id.btnOk);
 
-        // check if the button says "log in"
-        if (buttonOK.getText().toString().contains("Log in")) {
+        // check if we're currently in sign up mode
+        if (signUpModeActive) {
 
-            ((Button) findViewById(R.id.btnOk)).setText("Sign up");
-            //((Button) findViewById(R.id.btnOk)).setOnClickListener(logIn());
-            ((TextView) findViewById(R.id.txtViewSwitch)).setText("Log in");
+            // change texts of button and textview
+            ((Button) findViewById(R.id.btnOk)).setText(R.string.log_in);
+            ((TextView) findViewById(R.id.txtViewSwitch)).setText(R.string.sign_up);
+            // set sign up mode to false (now we're on log in mode)
+            signUpModeActive = false;
 
-        }
-        // or, if buttons says "sign up"
-        else if (buttonOK.getText().toString().contains("Sign up")) {
+        } else {
 
-            ((Button) findViewById(R.id.btnOk)).setText("Log in");
-            //((Button) findViewById(R.id.btnOk)).setOnClickListener(logIn());
-            ((TextView) findViewById(R.id.txtViewSwitch)).setText("Sign up");
+            // change texts of button and textview
+            ((Button) findViewById(R.id.btnOk)).setText(R.string.sign_up);
+            ((TextView) findViewById(R.id.txtViewSwitch)).setText(R.string.log_in);
+            // set sign up mode to true
+            signUpModeActive = true;
 
         }
     }
 
+    /**
+     * Handler function: checks current mode and calls function to execute
+     * the correct action
+     */
     public void signUpLogInHandler(View view) {
-        Button buttonOK = (Button) findViewById(R.id.btnOk);
 
-        usernameField = (EditText) findViewById(R.id.edtUsername);
-        passwordField = (EditText) findViewById(R.id.edtPassword);
-
-        String username = usernameField.getText().toString();
-        String password = passwordField.getText().toString();
-
-        // check if the button says "log in"
-        if (buttonOK.getText().toString().contains("Log in")) {
-            logIn(username, password);
-        }
-        // or, if buttons says "sign up"
-        else if (buttonOK.getText().toString().contains("Sign up")) {
-            signUp(username, password);
+        // check if we're currently on sign up or log in mode
+        if (signUpModeActive) {
+            signUp();
+        } else {
+            logIn();
         }
     }
 
-    public void logIn(String username, String password) {
+    /**
+     * Log in function: gets username and password data and attempts to log in the app.
+     * Shows a Toast message to the user informing if it was successful or not
+     */
+    public void logIn() {
+
+        ParseUser.logInInBackground(String.valueOf(usernameField.getText()),
+                String.valueOf(passwordField.getText()), new LogInCallback() {
+                    @Override
+                    public void done(ParseUser user, ParseException e) {
+
+                        if (e == null) {
+
+                            Log.i("AppInfo", "Log in Successful");
+                            Toast.makeText(getApplicationContext(), "Log in successful", Toast.LENGTH_LONG).show();
+
+                        } else {
+
+                            Log.i("AppInfo", "Log in failed");
+                            e.printStackTrace();
+                            Toast.makeText(getApplicationContext(), e.getMessage(), Toast.LENGTH_LONG).show();
+
+                        }
+
+                    }
+                });
 
 
     }
 
-    public void signUp(String username, String password) {
 
-        Parse.enableLocalDatastore(this);
-
-        // Add your initialization code here
-        Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-                .applicationId("instagram63537UJDFHEYhdfkefhe")
-                //.clientKey("uefjfhy7%$RHJHu7163jie")
-                .server("https://instagram1223.herokuapp.com/parse/")
-                .build()
-        );
+    /**
+     * Sign up function: gets username and password data and attempts to sign up.
+     * Shows a Toast message to the user informing if it was successful or not
+     */
+    public void signUp() {
 
         ParseUser user = new ParseUser();
 
-        user.setUsername(username);
-        user.setPassword(password);
-
-        Log.i("signUp", "Username: " + username + " - Password: " + password);
+        user.setUsername(String.valueOf(usernameField.getText()));
+        user.setPassword(String.valueOf(passwordField.getText()));
 
         user.signUpInBackground(new SignUpCallback() {
             @Override
             public void done(ParseException e) {
 
-                Log.i("signUp", "Exception: " + e.toString() + " - " + e.fillInStackTrace());
-
                 if (e == null) {
-                    Toast toast = Toast.makeText(MainActivity.this, "Error on log in! " + e.getMessage(), Toast.LENGTH_SHORT);
-                    toast.show();
+
+                    Log.i("AppInfo", "Sign up Successful");
+                    Toast.makeText(getApplicationContext(), "Sign up successful", Toast.LENGTH_LONG).show();
+
                 } else {
-                    Toast toast = Toast.makeText(MainActivity.this, "Log in successful!", Toast.LENGTH_SHORT);
-                    toast.show();
+
+                    Log.i("AppInfo", "Sign up failed");
+                    e.printStackTrace();
+                    Log.i("AppInfo", "Cause of failure: " + e.getCause());
+                    Toast.makeText(getApplicationContext(), e.getMessage(), Toast.LENGTH_LONG).show();
+
                 }
             }
         });
 
-        ParseACL defaultACL = new ParseACL();
-        // Optionally enable public read access.
-        // defaultACL.setPublicReadAccess(true);
-        ParseACL.setDefaultACL(defaultACL, true);
-
     }
 
+    /**
+     * onKey method: when user clicks on the enter button, app attempts to log in or sign up,
+     * depending on the current app mode
+     */
+    @Override
+    public boolean onKey(View view, int keyCode, KeyEvent keyEvent) {
+
+        if (keyCode == KeyEvent.KEYCODE_ENTER && keyEvent.getAction() == KeyEvent.ACTION_DOWN) {
+            signUpLogInHandler(view);
+        }
+
+        return false;
+    }
+
+    @Override
+    public void onClick(View view) {
+        // checking if click was from imageView or relativeLayout
+        if (view.getId() == R.id.imageViewLogo || view.getId() == R.id.relativeLayout) {
+            InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+            imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
+        }
+    }
 }
