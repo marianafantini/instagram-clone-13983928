@@ -1,0 +1,25 @@
+#Sat Dec 02 23:53:19 BRST 2017
+renamed.7=classes7.dex
+renamed.6=classes6.dex
+renamed.5=classes.dex
+renamed.4=classes4.dex
+renamed.3=classes8.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+renamed.0=classes2.dex
+base.7=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_aeade20f5b6bfa1d757b904687cc2173e251f29b
+base.6=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_61339b824bd49e1c222e8e1098df4a90856470dc
+base.5=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_93c2351cfc173ed9fc2c1b8f4e786727834546fa
+base.4=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f75629fb6e3edeff4519f9288921ca44e51fcbd6
+base.3=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_efa89cc028e486557ea08cdf038ead16dc9df52d
+base.2=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5c85a913a55cfe1373cd163307cdea0d4e6dfbd2
+base.1=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_2180b4fc2a5c19989f95eb1bb81be9c4ca3ff197
+base.0=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3f5a5377217acb5ab133e1bfdf8150936138ff37
+file.7=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_aeade20f5b6bfa1d757b904687cc2173e251f29b\\classes.dex
+file.6=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_61339b824bd49e1c222e8e1098df4a90856470dc\\classes.dex
+file.5=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_93c2351cfc173ed9fc2c1b8f4e786727834546fa\\classes.dex
+file.4=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f75629fb6e3edeff4519f9288921ca44e51fcbd6\\classes.dex
+file.3=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_efa89cc028e486557ea08cdf038ead16dc9df52d\\classes.dex
+file.2=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5c85a913a55cfe1373cd163307cdea0d4e6dfbd2\\classes.dex
+file.1=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_2180b4fc2a5c19989f95eb1bb81be9c4ca3ff197\\classes.dex
+file.0=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3f5a5377217acb5ab133e1bfdf8150936138ff37\\classes.dex

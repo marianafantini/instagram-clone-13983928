@@ -1,0 +1,7 @@
+#Sat Dec 02 23:56:35 BRST 2017
+base.0=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a63da891b8c9d2b2cb3e2f5bef716ee62e9112e9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5d9ddb50ef5f1a36b4313c15ee70b238d294134b\\classes.dex
+base.1=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5d9ddb50ef5f1a36b4313c15ee70b238d294134b
+file.0=C\:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a63da891b8c9d2b2cb3e2f5bef716ee62e9112e9\\classes.dex

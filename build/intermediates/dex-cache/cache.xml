@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a63da891b8c9d2b2cb3e2f5bef716ee62e9112e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maria\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2180b4fc2a5c19989f95eb1bb81be9c4ca3ff197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maria\.android\build-cache\7d9733f0614b179de0657ab5cc8af911a6343e17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f75629fb6e3edeff4519f9288921ca44e51fcbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4331cf3822812960c9d7ce80d916c1955c969b2">
+        <dex dex="C:\Users\maria\Documents\cursos-online\Udemy\Android-course\Instagram\InstagramProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5d9ddb50ef5f1a36b4313c15ee70b238d294134b\classes.dex" />
+    </item>
+
+</items>

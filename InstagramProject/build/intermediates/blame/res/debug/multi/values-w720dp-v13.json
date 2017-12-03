@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\maria\\Documents\\cursos-online\\Udemy\\Android-course\\Instagram\\InstagramProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\maria\\.android\\build-cache\\992014705c1039b2807ba2507611499712ff7287\\output\\res\\values-w720dp\\values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    }
+]
